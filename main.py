@@ -8,4 +8,4 @@ def greeting(name):
     return f"Salut, {name}!"
 
 if __name__ == "__main__":
-    print(greeting("Feature A"))
+    print(greeting("Feature B"))
